@@ -1,0 +1,11 @@
+com/blrmyfc/controller/ShowController.class
+com/blrmyfc/logic/XmlViewer.class
+com/blrmyfc/logic/SchemaValidator.class
+com/blrmyfc/logic/ValidateFromDBAndSave.class
+com/blrmyfc/logic/DBWriterFromFile.class
+com/blrmyfc/domain/XmlFileEntity.class
+com/blrmyfc/repos/XmlFileRepo.class
+com/blrmyfc/controller/MainController.class
+com/blrmyfc/controller/RedactController.class
+com/blrmyfc/Application.class
+com/blrmyfc/config/MvcConfig.class

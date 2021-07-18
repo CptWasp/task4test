@@ -1,0 +1,11 @@
+/home/blueflurecca/IdeaProjects/XmlRedactor/src/main/java/com/blrmyfc/controller/RedactController.java
+/home/blueflurecca/IdeaProjects/XmlRedactor/src/main/java/com/blrmyfc/config/MvcConfig.java
+/home/blueflurecca/IdeaProjects/XmlRedactor/src/main/java/com/blrmyfc/controller/ShowController.java
+/home/blueflurecca/IdeaProjects/XmlRedactor/src/main/java/com/blrmyfc/repos/XmlFileRepo.java
+/home/blueflurecca/IdeaProjects/XmlRedactor/src/main/java/com/blrmyfc/logic/XmlViewer.java
+/home/blueflurecca/IdeaProjects/XmlRedactor/src/main/java/com/blrmyfc/controller/MainController.java
+/home/blueflurecca/IdeaProjects/XmlRedactor/src/main/java/com/blrmyfc/domain/XmlFileEntity.java
+/home/blueflurecca/IdeaProjects/XmlRedactor/src/main/java/com/blrmyfc/logic/ValidateFromDBAndSave.java
+/home/blueflurecca/IdeaProjects/XmlRedactor/src/main/java/com/blrmyfc/logic/SchemaValidator.java
+/home/blueflurecca/IdeaProjects/XmlRedactor/src/main/java/com/blrmyfc/logic/DBWriterFromFile.java
+/home/blueflurecca/IdeaProjects/XmlRedactor/src/main/java/com/blrmyfc/Application.java
